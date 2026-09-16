@@ -1,0 +1,7 @@
+a = float(input("число один"))
+b = float(input("число да"))
+s = abs(a + b)
+r = abs(a - b)
+p = abs(a * b)
+v = abs(a / b)
+print(f"сумма {s}", f"разность {r}", f"произведение {p}", f"частное {v}")
