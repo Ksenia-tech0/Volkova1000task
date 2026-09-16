@@ -1,0 +1,6 @@
+V1 = float(input("Введите число"))
+V2 = float(input("Введите число"))
+S = float(input("Введите число"))
+T = float(input("Введите число"))
+S0 = S + (V1 + V2) * T
+print(f"Расстояние {T}", f"часы {S0}")
